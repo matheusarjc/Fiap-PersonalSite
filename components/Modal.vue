@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed inset-0 flex items-center justify-center bg-black bg-opacity-70 z-50">
+  <div class="fixed inset-0 flex items-center justify-center bg-black/90 z-50">
     <div class="bg-white rounded-lg p-8 max-w-lg w-full relative">
       <button
         @click="$emit('fechar')"

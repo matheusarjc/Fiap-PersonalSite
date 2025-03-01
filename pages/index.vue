@@ -14,7 +14,7 @@
 <script setup lang="ts">
 import Header from "~/components/Header.vue";
 import Hero from "~/components/Hero.vue";
-import Sobre from "~/components/ABout.vue";
+import Sobre from "~/components/About.vue";
 import Projetos from "~/components/Projects.vue";
 import Contato from "~/components/Contact.vue";
 import Footer from "~/components/Footer.vue";
