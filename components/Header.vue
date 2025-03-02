@@ -1,7 +1,6 @@
 <template>
   <header class="fixed top-0 left-0 w-full z-50 bg-transparent">
-    <div class="container mx-auto flex justify-between items-center py-4 px-6">
-      <div class="text-white text-2xl font-bold">Meu Portfólio</div>
+    <div class="container mx-auto flex justify-center items-center py-4 px-6">
       <nav class="hidden md:flex">
         <ul class="flex space-x-8">
           <li>

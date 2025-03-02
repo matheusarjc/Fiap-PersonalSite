@@ -6,9 +6,13 @@
         class="absolute top-2 right-2 text-gray-700 hover:text-gray-900">
         &times;
       </button>
-      <h2 class="text-2xl font-bold mb-4">Sobre Mim</h2>
+      <h2 class="text-2xl font-bold mb-4">Fun Fact</h2>
       <p class="text-gray-700">
-        Aqui você pode colocar um texto descrevendo sua trajetória, seus diferenciais e conquistas.
+        In addition to debugging lines of code, I also "debug" the traditional teaching! As CEO of
+        <a href="https://skoolab.academy" target="_blank" class="underline">@Skoolab</a>, I not only
+        reprogram learning - helping students release their dopamine to transform old methods - but
+        also balance the art of software engineering with the adrenaline of leading a fast-paced
+        startup. Each bug I solve drives a new innovative insight into the world of education!
       </p>
     </div>
   </div>
