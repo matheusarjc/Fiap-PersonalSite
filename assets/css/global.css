@@ -7,7 +7,3 @@ html {
 body {
   font-family: "Poppins", sans-serif;
 }
-
-@theme {
-  --font-secondary: "Tenor Sans", serif;
-}
