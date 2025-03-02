@@ -1,6 +1,6 @@
 # Personal Website
 
-This project is a simple, but carefully structured web application that serves as personal portfolio and landing page. It demonstrates how to integrate modern technologies (Nuxt 3, Vue 3 with TypeScript and Tailwind CSS) to create a responsive and elegant interface with visual effects such as glass effect (glassmorphism), smooth transitions and blur filters.
+This project is a simple, but carefully structured web application that serves as personal portfolio and landing page. It demonstrates how to integrate modern technologies (Nuxt 3, Vue 3 with TypeScript and Tailwind CSS) to create a responsive and elegant interface with visual effects such as glass effect (glassmorphism), smooth transitions and blur filters. Access here: https://fiap-personal-site.vercel.app
 
 ---
 
@@ -177,7 +177,7 @@ To run the project in development mode, perform:
 npm run dev
 ```
 
-Access http://localhost:3000 in your browser. You will be able to view the site with all features, including the glass-effect header, responsive menu and modal transitions. Otherwise, you can access
+Access http://localhost:3000 in your browser. You will be able to view the site with all features, including the glass-effect header, responsive menu and modal transitions. Otherwise, you can access at https://fiap-personal-site.vercel.app
 
 ## Build & Deploy
 
