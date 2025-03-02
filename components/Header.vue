@@ -1,5 +1,6 @@
 <template>
-  <header class="fixed top-0 left-0 w-full z-50 bg-transparent">
+  <header
+    class="fixed top-0 left-0 w-full z-50 bg-white/30 backdrop-blur-md border-b border-white/20">
     <div class="container mx-auto flex justify-center items-center py-4 px-6">
       <nav class="hidden md:flex">
         <ul class="flex space-x-8">
