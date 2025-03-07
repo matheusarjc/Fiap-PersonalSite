@@ -73,7 +73,7 @@ git clone https://github.com/matheusarjc/Fiap-PersonalSite.git
 cd Fiap-PersonalSite
 ```
 
-2. Instale as dependências:
+2. Install the dependecies:
 
 ```
 
@@ -125,7 +125,7 @@ module.exports = {
 }
 ```
 
-4. Arquivo de Estilos Global:
+4. Global styles file:
 
 In the file `assets/css/main.css`, you have the directives:
 
